@@ -1,7 +1,7 @@
 package java8;
 
 public class Laambda {
-public static void main(String[] args) {
+	 static public void main(String[] args) {
 	
 }
 }
